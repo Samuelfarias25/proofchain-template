@@ -1,11 +1,11 @@
 # 🚀 ProofChain - O Guardião da Criatividade Humana
 
 **Desafio 1:** Hackweb Web3 (Residência TIC 29)
-**Equipe:** Samuel Farias e Ubiracy Nobrega / TIC 29
+**Equipe:** Cartorio web3.0 Samuel Farias e Ubiracy Nobrega / TIC 29
 
-🔗 **[Acesse o MVP Funcional aqui](https://web3-0-meu.vercel.app)**
+🔗 **[Acesse o MVP Funcional aqui](https://proofchain-template.vercel.app)**
 🎥 **[Link para o Vídeo Pitch](COLOQUE O LINK DO SEU YOUTUBE/DRIVE AQUI)**
-📊 **[Link para a Apresentação de Slides](COLOQUE O LINK AQUI)**
+📊 **[Link para a Apresentação de Slides](https://gamma.app/docs/Proteja-Sua-Arte-Agora-9q8xxbgtm6tgi3r?follow_on_start=true&following_id=p7qhjhdf2g3j34e&mode=doc)**
 
 ---
 
