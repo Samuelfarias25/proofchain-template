@@ -4,7 +4,7 @@
 **Equipe:** Cartorio web3.0 Samuel Farias e Ubiracy Nobrega / TIC 29
 
 🔗 **[Acesse o MVP Funcional aqui](https://proofchain-template.vercel.app)**
-🎥 **[Link para o Vídeo Pitch](youtube.com/watch?v=CoxIy_3iSCs&feature=youtu.be)**
+🎥 **[Link para o Vídeo Pitch](https://www.youtube.com/watch?v=CoxIy_3iSCs)**
 📊 **[Link para a Apresentação de Slides](https://gamma.app/docs/Proteja-Sua-Arte-Agora-9q8xxbgtm6tgi3r?follow_on_start=true&following_id=p7qhjhdf2g3j34e&mode=doc)**
 
 ---
