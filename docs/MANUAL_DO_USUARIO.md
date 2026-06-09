@@ -43,5 +43,5 @@ A rastreabilidade e transparência são pilares do projeto. Para verificar os re
 ---
 
 ## 🔗 Links Oficiais do Projeto
-* **Aplicação (MVP):** [Inserir Link Vercel]
+* **Aplicação (MVP):** [https://proofchain-template.vercel.app/]
 * **Contrato Inteligente (Sepolia Etherscan):** [0xC123916451Fdb0846de606A1EB7F6467e68f493d](https://sepolia.etherscan.io/address/0xC123916451Fdb0846de606A1EB7F6467e68f493d)
